@@ -1,0 +1,35 @@
+## AI Engineer
+
+**Shape the Future of Intelligence: Join Our Innovative Team!**
+
+We are seeking a passionate and talented AI Engineer to design and build intelligent systems that learn, reason, and solve complex real-world problems at scale. As an AI Engineer, you will play a crucial role in developing cutting-edge AI solutions that drive innovation and impact our core business objectives.
+
+**Key Responsibilities:**
+
+*   Design, develop, and deploy machine learning models and algorithms for a variety of applications, including but not limited to natural language processing, computer vision, and predictive analytics.
+*   Collaborate with cross-functional teams, including product managers, data scientists, and software engineers, to understand business requirements and translate them into effective AI solutions.
+*   Develop and maintain robust data pipelines for data ingestion, processing, and feature engineering.
+*   Evaluate and optimize the performance of AI models using appropriate metrics and techniques.
+*   Stay up-to-date with the latest advancements in AI research and technology, and proactively explore opportunities to apply them to our business.
+*   Contribute to the development of best practices for AI development, deployment, and monitoring.
+*   Debug and troubleshoot AI models and systems, identifying and resolving performance bottlenecks.
+
+**Required Qualifications:**
+
+*   Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field.
+*   Minimum of 3 years of experience in developing and deploying AI/ML solutions in a production environment.
+*   Strong programming skills in Python and experience with popular machine learning libraries such as TensorFlow, PyTorch, or scikit-learn.
+*   Proven ability to design, implement, and evaluate machine learning models for various tasks.
+*   Experience with data processing and manipulation using tools like Pandas, NumPy, and Spark.
+
+**Preferred Qualifications:**
+
+*   Experience with cloud computing platforms such as AWS, Azure, or GCP.
+*   Experience with deploying and managing AI models using containerization technologies like Docker and Kubernetes.
+
+**What We Offer:**
+
+*   A challenging and rewarding work environment where you can make a real impact.
+*   Opportunities for professional growth and development through training, conferences, and mentorship programs.
+*   A collaborative and supportive team culture that values innovation and creativity.
+*   The chance to work on cutting-edge AI projects that are shaping the future of our industry.

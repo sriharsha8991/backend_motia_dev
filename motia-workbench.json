@@ -1,0 +1,65 @@
+[
+  {
+    "id": "hello-world-flow",
+    "config": {
+      "src\\hello\\process_greeting_step.py": {
+        "x": 232,
+        "y": 118
+      },
+      "src\\hello\\hello_api_step.py": {
+        "x": -413,
+        "y": 75
+      },
+      "src\\hello\\post_api_step.py": {
+        "x": 0,
+        "y": 223
+      }
+    }
+  },
+  {
+    "id": "todo-management",
+    "config": {
+      "src\\todos\\update_todo_step.py": {
+        "x": 26,
+        "y": 0
+      },
+      "src\\todos\\get_todo_step.py": {
+        "x": 0,
+        "y": 203
+      },
+      "src\\todos\\get_todos_step.py": {
+        "x": 32,
+        "y": 406
+      },
+      "src\\todos\\delete_todo_step.py": {
+        "x": 19,
+        "y": 609
+      },
+      "src\\todos\\create_todo_step.py": {
+        "x": 14,
+        "y": 812
+      }
+    }
+  },
+  {
+    "id": "job-generation",
+    "config": {
+      "src\\jobs\\list_jobs_step.py": {
+        "x": -590,
+        "y": 22
+      },
+      "src\\jobs\\get_job_step.py": {
+        "x": -602,
+        "y": 219
+      },
+      "src\\jobs\\generate_description_step.py": {
+        "x": 469,
+        "y": 258
+      },
+      "src\\jobs\\create_job_step.py": {
+        "x": -81,
+        "y": 19
+      }
+    }
+  }
+]
